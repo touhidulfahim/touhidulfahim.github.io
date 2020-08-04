@@ -26,6 +26,18 @@ body {
     background-color: #2F4F4F;
 }
 
-.employment-container {
-    background-color: darkgray;
+.portfolio-container {
+    background-color: #2F4F4F;
+}
+
+.owl-carousel .item {
+    height: 15rem;
+    /* background: #4DC7A0; */
+    padding: 1rem;
+}
+
+.owl-carousel .item h4 {
+    color: #FFF;
+    font-weight: 400;
+    margin-top: 0rem;
 }
