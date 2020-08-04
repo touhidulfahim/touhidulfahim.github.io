@@ -1,17 +1,31 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.banner-container{
-background-color: darkgrey;
+.banner-container {
+    background-color: darkgrey;
 }
- .banner-column{
-    background-color: darkslategray;
- }
- .navbar-container{
-     background-color: #2F4F4F;
- }
 
- .about-container{
-     background-color: dimgrey;
- }
+.banner-column {
+    background-color: darkslategray;
+}
+
+.navbar-container {
+    background-color: #2F4F4F;
+}
+
+.nav-item>a {
+    text-transform: uppercase;
+}
+
+.about-container {
+    background-color: darkgrey;
+}
+
+.edutcation-container {
+    background-color: #2F4F4F;
+}
+
+.employment-container {
+    background-color: darkgray;
+}
