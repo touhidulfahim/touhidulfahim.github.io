@@ -11,11 +11,21 @@ body {
 }
 
 .navbar-container {
+    top: 0;
     background-color: #2F4F4F;
+    position: sticky;
+    z-index: 2;
 }
 
 .nav-item>a {
     text-transform: uppercase;
+    display: block;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .about-container {
