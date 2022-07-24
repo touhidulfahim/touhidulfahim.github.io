@@ -246,3 +246,24 @@ body:not(.dark) .tf-btn-primary {
     max-width: 16.66666667%;
   }
 }
+@media (min-width: 1280px) {
+    .md\:text-left {
+        margin-top: 100px;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:text-left {
+        text-align: left;
+    }
+}
+
+.text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+}
+@media (min-width: 1024px){
+    .lgfooter {
+        width: 40%;
+    }
+}
