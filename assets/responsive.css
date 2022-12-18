@@ -1,0 +1,50 @@
+.tf-container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 1200px)
+{
+    .tf-container {
+        max-width: 1140px;
+    }
+}
+@media (min-width: 992px)
+{
+    .tf-container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 768px)
+{
+    .tf-container {
+        max-width: 720px;
+    }
+}
+@media (min-width: 576px)
+{
+    .tf-container {
+        max-width: 540px;
+    }
+}
+
+._pt60px_18pn4_27 {
+    padding-top: 60px;
+}
+
+._pt85px_18pn4_35 {
+    padding-top: 85px;
+}
+._pt120px_18pn4_39 {
+    padding-top: 120px;
+}
+._pt120px_18pn4_39 {
+    padding-top: 120px;
+}
+
+._pt85px_18pn4_35 {
+    padding-top: 85px;
+}
+
+
